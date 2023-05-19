@@ -1,0 +1,67 @@
+whoami
+who
+tree
+echo $ HOME
+pwd
+cd
+mkdir
+mkdir-p
+cat
+cat >
+cat >>
+ls
+ls -l
+ls -a
+ls -la
+ls -lah
+ls -lat
+ls -latr
+rm
+rm -r
+rm -i 
+less
+ln
+ln -s
+head 
+head -1,2,3,4
+
+tail
+tail -1,2,3,4,5
+ 
+grep -i
+grep -v
+grep -n
+grep -vn
+
+cut -d "anything which we want to search" -f 1,7 
+
+wc
+wc -l
+wc -c
+wc -w
+
+sort
+sort -n
+sort -nr
+
+error redirection
+>
+2>
+&>
+
+chmod
+
+df -h
+free
+free -m
+free -g
+
+ps 
+ps -ef
+
+top
+htop
+
+kill
+kill -15
+kill -9
